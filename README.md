@@ -1,6 +1,6 @@
 # ESA Academy 2025 – IQ Sample Processing Tutorial
 
-Welcome to the **IQ Sample Processing Tutorial** for the ESA Academy 2025! This hands-on notebook will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
+Welcome to the **IQ Sample Processing Tutorial** for the Navigation ESA Academy 2025! This hands-on notebook will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarnixMeersman/esa-academy-NTC/HEAD)
 

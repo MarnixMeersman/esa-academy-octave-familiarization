@@ -2,8 +2,7 @@
 
 Welcome to the **IQ Sample Processing Tutorial** for the Navigation ESA Academy 2025! This hands-on notebook will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarnixMeersman/esa-academy-NTC/HEAD?urlpath=%2Fdoc%2Ftree%2FIQ_analysis_octave_updated.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarnixMeersman/esa-academy-NTC/HEAD?urlpath=lab/tree/notebooks/IQ_analysis_octave_updated.ipynb)
 ---
 
 ## 🚀 Quick Start

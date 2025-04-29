@@ -5,6 +5,6 @@ Welcome to the **Signal Processing Tutorial** for the Navigation ESA Academy 202
 
 Click the **button below️** to launch the notebook. Please note that it can take a while to fully boot up the environment; we recommend clicking the button a bit in advance and uploading your I/Q sample data file immediately, as this step can be lengthy.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarnixMeersman/esa-academy-NTC/HEAD?urlpath=lab/tree/notebooks/IQ_analysis_octave_updated.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarnixMeersman/esa-academy-NTC/HEAD?urlpath=lab/tree/notebooks/1_IQ_analysis_octave.ipynb)
 
 When prompted to select a Kernel, select: "Octave (xoctave)"

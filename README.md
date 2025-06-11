@@ -1,4 +1,4 @@
-# ESA Academy 2025 – IQ Sample Processing Tutorial
+# ESA Academy 2025 – Get Familiar with Octave
 ![img.png](img.png)
 
 Welcome to the **Signal Processing Tutorial** for the Navigation ESA Academy 2025! These hands-on notebooks will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
